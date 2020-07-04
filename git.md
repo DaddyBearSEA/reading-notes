@@ -6,7 +6,24 @@
 
 <img src ="images/lillies.jpg" height="300px" align = "right">
 
-ACP - Add / Commit / Push
+### Getting Help with in Ubuntu
+When using any commmand in Ubuntu - you can type the command `cmd --help` works and gives you a copy of the syntax for the command
+
+### **Moving around directories**
+
+`cd ..` 
+> change directory upward
+
+`ls` and `ls -a`
+> lists out the current directly files. "-a" shows everything.
+
+`mkdir [directory name]`
+> makes a directory
+
+
+
+
+### **ACP - Add / Commit / Push**
 
 `git status ` 
 > allows you to see what files have changed
