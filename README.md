@@ -7,7 +7,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 ### Other Links
 [Slack](https://app.slack.com/client/T039KG69K/D01419MJVAB/thread/C039KG6A1-1591124619.046600) ||  [Canvas](https://canvas.instructure.com/) ||
 [FrontRow](https://frontrowviews.com/Home/Event/ProviderDetails/5a83c3f209310b1d68d45c46) || 
-[Git Syntax](git.md)
+[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c)
 
 <img src="images/mainefoliage.jpg"  align="center" height="150px" width="750
 50px">
@@ -17,9 +17,9 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 ## Table of Contents  
   
-##### links don't work yet!
+##### not all links work yet!
 
-- [Day 1 - July 6, 2020](6july2020.md) 
+- [Class 1 - July 6, 2020](class-01.md) 
 - [Day 2 - July 7, 2020](7jul2020.md)
 - [day 3 - July 8, 2020](8jul2020.md)
 - [day 4 - july 9, 2020](9july2020.md)
