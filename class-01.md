@@ -73,17 +73,106 @@ Head of an HTML page contains meta data and the Title most commonly
 - div
 
 **new elements provide clearer code**
-**odler browsers**
-**Extra JavaScript
 
+
+**older browsers**
+
+> Useing Google Javascrip HTML5 shiv or shim.  Less thatn IE9 browsers.
+
+**NOTE:** *anyone using IE* or lower must have JavaScript enabled in their borwser*
+
+**Extra JavaScript**
+
+> See Above under Older Browser
 
 
 ## HTML Chapter 18: “Process & Design” (pp.452-475)
 
+Some basics broken into 4 thoughts
+1. Audience - who is your demograhic for your website
+1. Organization of your content
+1. Presentation of the content
+1. Attractive and Professional design to meet the target audience
 
+### Demographic of Audience
+> Know your target clientele and why they want to come to your website. Give them the informaton that they seek on your site.
+
+### Motivational Goals
+> Why are they visiting your web site and what information are they expecting to find.
+
+**NOTE:** *when taking over an existing website, look for analysis of the current traffic and what demographic is already present.*
+
+### Site Maps
+> How will you organize your content for the website. Use a tool called Card Sorting and lay out the information. Index Card or and Excel Spreadsheet is nice to lay things out.
+
+### Wireframes
+> Then off to WIREFRAMES - Photoshop has templates for this.
+
+### Visual Hierarchy
+> There is a lot of Psychology around design of web sites and what works and doesn’t work. Here is a taste of some psychology
+
+
+#### Designing Navigation
+ - Concise
+ - Clear
+ - Selective
+ - Context
+ - Interactive
+ - Consistent
 
 ### From the Duckett JS book:
 
+
 ## Introduction
 
+Javascrip makes static webpages more dynamic
+
+**Examples of useing Javascript**
+- Slideshows
+- forms
+- reload part of a page
+- filtering data
+
+
+
 ## JS Chapter 1: “The ABC of Programming” (pp.11-52)
+
+#### A What is a script and how do I create one
+- searies of instructions
+
+- might only use a subset of the instructions
+
+- Let the computer solve the task programmatically
+
+- break down your goals, create series of tasks and then work out each step needed `(flowchart)`
+
+
+#### B How do computer fit in with the world around them?
+
+- computers create models of the world
+
+- Models use objects to represent physical things
+    - Objects have property
+        - Methods
+        - events
+
+- Programmers write code when this event occurs = run this code
+
+- Web browswers use HTML Markup to create a model of the web page. Each elements creates its own node `(which is a kind of object)`
+
+- To make web pages interatice, you wirte code that uses the browser's model of the web page.
+
+
+
+
+#### C How do I write a script for a web page?
+
+- Keep JS code in it's onw JS files. HTML its own files and CCS in it's own file.
+- HTML `<script>` element is added to HTML to be exucuted within the HTML code
+- when looking at the source code the JS will not change the HTML.  The JS works with the MODEL of the Web Page the Browser created
+
+
+[go back](README.md)
+
+
+
