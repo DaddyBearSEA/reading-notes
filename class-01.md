@@ -60,6 +60,7 @@ Head of an HTML page contains meta data and the Title most commonly
 
 
 ## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+<img src="images/chickendinner.jpg" align="right" height="300px">
 
 **HTML5 elements** in the past div was used often to define parts of the page. HTML5 gives you new elements
 - header
@@ -146,15 +147,45 @@ Javascrip makes static webpages more dynamic
 
 - break down your goals, create series of tasks and then work out each step needed `(flowchart)`
 
+#### Writing a script
+1. Define the Goal
+1. Design the script
+1. code each step
+
+##### Define the Goal
+
+What is the big picture and what is the task at hand you need to achive.
+
+##### Design the Script
+deisgn the script by spliting the goal out into a series of tasks that the computer will need to do - PUZZLE!  Using a flowchart is best practice
+write down the individual steps that the computer neeeds to perform. Like a "Recipe" 
+
+##### Code Each Step
+each of the steps needs to be written in a programming language tha the computer understnads. **NOTE** *spend time designing / planning before writing*
 
 #### B How do computer fit in with the world around them?
 
 - computers create models of the world
 
 - Models use objects to represent physical things
-    - Objects have property
-        - Methods
-        - events
+    - Objects have 
+        1. property
+        1. Methods
+        1. events
+    
+    together they make up a model
+
+Properties (characteristics)
+> Properties are things like color, type, size, 
+
+Events 
+
+> the interaction with objects. An event will trigger code to run
+
+Methods 
+> represent thing speople need to do with the objects.  Theey can retrieve or update the values o fthe object's properties.
+
+
 
 - Programmers write code when this event occurs = run this code
 
@@ -162,7 +193,7 @@ Javascrip makes static webpages more dynamic
 
 - To make web pages interatice, you wirte code that uses the browser's model of the web page.
 
-
+**NOTE: Putting it all together PG 34-35 in JavaScript Book**
 
 
 #### C How do I write a script for a web page?
