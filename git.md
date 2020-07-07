@@ -1,4 +1,4 @@
-# GIT and GITHUB
+# Terminal, GIT, and GITHUB
 
 ### Key Terms 03JUN2020 
 
@@ -12,7 +12,7 @@ When using any commmand in Ubuntu - you can type the command `cmd --help` works 
 ### **Moving around directories**
 
 `cd ..` 
-> change directory upward
+> change one directory upward
 
 `ls` and `ls -a`
 > lists out the current directly files. "-a" shows everything.
@@ -20,6 +20,21 @@ When using any commmand in Ubuntu - you can type the command `cmd --help` works 
 `mkdir [directory name]`
 > makes a directory
 
+`cdwr`
+> change directory to windowns root
+
+`pwd`
+> present working directory
+
+
+`rm -r` or `rm- -rf`
+> removes eith a recursion - deletes from the ground up. BECAREFUL when using RF - F is force to delete all hidden files as well
+
+`touch`
+> make a new file
+
+`xdg-open index.html`
+Open up your default browser with the file name index.html
 
 
 
