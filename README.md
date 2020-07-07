@@ -20,7 +20,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 ##### not all links work yet!
 
 - [Class 1 - July 6, 2020](class-01.md) 
-- [Day 2 - July 7, 2020](7jul2020.md)
+- [Class 2 - July 7, 2020](class-02.md)
 - [day 3 - July 8, 2020](8jul2020.md)
 - [day 4 - july 9, 2020](9july2020.md)
 - [day 5 - july 10, 2020](10jul2020.md)
