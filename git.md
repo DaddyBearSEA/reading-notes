@@ -48,7 +48,7 @@ Open up your default browser with the file name index.html
 > add the files names that you want to push up to the repository  
 
 `git add *`
-> another command to add all files. Use a filename instead of this "catchall" as you need to know which files you are committing to the repository
+> another command to add all files. Use a filename instead of this "catchall" as you need to know which files you are committing to the repository. DO NOT USE
 
 `git commit -m "Your Messsage " ` 
  >adds a comment to the files that are updated to the repository on the version control. Message should be something everyone can understand
@@ -67,7 +67,8 @@ Open up your default browser with the file name index.html
 `git rm [filename]`
 > removes the file from the local directory
 
-
+`git checkout [filename]`
+> when you have a modified file that you don't want to continue to show up on `git status` you just re-check it out.
 
 
 

@@ -43,7 +43,6 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 | Work in Progress 	|  Seven Pillars of Career Coaching	| 
 |-	|-	|
-| 201-Class Project TBD	|  1. Professional Etiquette	|  
 | 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)  	| 2. Professional Pitch 	| 
 |  	| 3. Createing a Network	|
 |  	| 4. Job Search Readiness 	|
