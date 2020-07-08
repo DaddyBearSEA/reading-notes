@@ -7,7 +7,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 ### Other Links
 [Slack](https://app.slack.com/client/T039KG69K/D01419MJVAB/thread/C039KG6A1-1591124619.046600) ||  [Canvas](https://canvas.instructure.com/) ||
 [FrontRow](https://frontrowviews.com/Home/Event/ProviderDetails/5a83c3f209310b1d68d45c46) || 
-[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c)
+[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c) || [Lab Room](https://codefellows-lab.herokuapp.com/)
 
 <img src="images/mainefoliage.jpg"  align="center" height="150px" width="750
 50px">
@@ -21,7 +21,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [Class 1 - July 6, 2020](class-01.md) 
 - [Class 2 - July 7, 2020](class-02.md)
-- [day 3 - July 8, 2020](8jul2020.md)
+- [Class 3 - July 8, 2020](8jul2020.md) Incomplete
 - [day 4 - july 9, 2020](9july2020.md)
 - [day 5 - july 10, 2020](10jul2020.md)
 - [day 6 - july 13, 2020](13jul2020.md)
@@ -43,6 +43,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 | Work in Progress 	|  Seven Pillars of Career Coaching	| 
 |-	|-	|
+| 201  [Lab2](https://daddybearsea.github.io/lab02/) | 1. Professional etiquette
 | 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)  	| 2. Professional Pitch 	| 
 |  	| 3. Createing a Network	|
 |  	| 4. Job Search Readiness 	|
