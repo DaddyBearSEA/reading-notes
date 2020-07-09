@@ -21,7 +21,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [Class 1 - July 6, 2020](class-01.md) 
 - [Class 2 - July 7, 2020](class-02.md)
-- [Class 3 - July 8, 2020](8jul2020.md) Incomplete
+- [Class 3 - July 8, 2020](8jul2020.md) Re-read Chapter UGH!
 - [day 4 - july 9, 2020](9july2020.md)
 - [day 5 - july 10, 2020](10jul2020.md)
 - [day 6 - july 13, 2020](13jul2020.md)
