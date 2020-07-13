@@ -42,22 +42,33 @@ TRBL - Syntax for BMP is Top, Right, Bottom, Left
 Putting things inside 'boxes' makes css easier
 
 ### CSS display and Visibility properties can hide elements
+- shorthand border: [margin] [style] [color]
+- cetering content martin: 10px auto 10px auto => set the left and right to Auto
+  > 1. 10 px = Top margin
+  > 2. auto = right margin to auto size within the box
+  > 3. 10 px = bottom margin
+  > 4. auto = left margin to auto size within the box
 
 
 
 
 ### block level boxes can be masde into inline boxes and vice versa
+**Display property**
+- inline => created a block levelelement to act like an inline element
+- block => cuases an inline element to act like a block level element
+- inline-block => causes a block -level element to flow like an inline element, while retaining other features of block-level element
+- none => hides an element from teh page. But can be seen in 'view' source.
 
+display: inline;
+
+**Box Shadows, Rounded Corners and Elliptical Shapes** allows you to  create sytling around your boxes
 
 
 ### Legibility can be imporoved by controling the width of boxes containing text and the leading.
 
+Bear Man Pig again
 
 ### CSS3 allows the ability to create image borders and rounded boarders
-
-
-
-
 
 
 
@@ -80,20 +91,23 @@ Switch Statment
 
 > *A switch statement starts with a variable called the switch value.*
 
->*Each case indicates a possible value for this variable and the code that should run inf the variabel matches
+>*Each case indicates a possible value for this variable and the code that should run inf the variabel matches, so if your varialbe is equal to 2, then case 2 would respond with a condition.
 
 Falsy and Truthy pg 167
 - Falsy values are treated as if they are false.
 
-- Truthy values are treated as if theyare true. 
+- Truthy values are treated as if they are true. 
 
 *checking equality and Existend and short circuit values are important to understanind true and false in a condition*
+
+
+**type coercion can lead to unexpected values in your code. Always use STRICT operators** (pg 166), it can give you different results when using a strict operator.
 
 ### loop
 just as it says, you loop through code until a certain condition is set to false.  A condition would be met and then the code would stop running.
 
 ### while
-code that is run until a condition is true. Once False is obrained the code stops running
+code that is run until a condition is true. Once False is obtained the code stops running.
 
 ### for
 For loop uses a counter as a condition
@@ -116,7 +130,6 @@ Logical Operators
 ``` !  Bang ```
 ``` !== - not strickly equal```
 ``` <=  Less than or equal to ```
-
 
 
 ``` if (true) {
@@ -158,7 +171,7 @@ while loops are very important
 ``` 
 var count;
 while (isNan(count) || count ===''){
-  count=prompt('Enter a number plrease.')
+  count=prompt('Enter a number please.')
 
 }
 ]
