@@ -16,7 +16,16 @@ You can nest list but adding another type of list.  think of Outlines within WOR
 
 
 ## Chapter 13: “Boxes” (pp.300-329)
-#### From the Duckett JS book:
+
+### CSS Treats Each HTML Element as if is has its own box
+### Use CSS to contol the dimensions of a box
+- Box Dimentions = width, height 
+- limiting height / width = min-width, max-height etc
+- Overflowing Content = allows you to put scroll bars in where content is too long for the box.
+
+
+### CSS also controls the borders, margins and padding for each box - Bear Man Pig
+
 
 Bear Man Pig 
 1. Bear = Border
@@ -27,12 +36,35 @@ when you create a box, you have extra pixels included in that box - BMP
 
 TRBL - Syntax for BMP is Top, Right, Bottom, Left
 
+
+#### **Remember: a box includes the total amount of pixels of the margin, padding and border**
+
 Putting things inside 'boxes' makes css easier
 
-**CSS3 allows the abilit to create image borders and rounded boarders.**
+### CSS display and Visibility properties can hide elements
 
 
 
+
+### block level boxes can be masde into inline boxes and vice versa
+
+
+
+### Legibility can be imporoved by controling the width of boxes containing text and the leading.
+
+
+### CSS3 allows the ability to create image borders and rounded boarders
+
+
+
+
+
+
+
+
+
+
+#### From the Duckett JS book:
 
 ## Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 
