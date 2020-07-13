@@ -7,7 +7,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 ### Other Links
 [Slack](https://app.slack.com/client/T039KG69K/D01419MJVAB/thread/C039KG6A1-1591124619.046600) ||  [Canvas](https://canvas.instructure.com/) ||
 [FrontRow](https://frontrowviews.com/Home/Event/ProviderDetails/5a83c3f209310b1d68d45c46) || 
-[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c) || [Lab Room](https://codefellows-lab.herokuapp.com/)
+[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI )
 
 <img src="images/mainefoliage.jpg"  align="center" height="150px" width="750
 50px">
@@ -19,12 +19,12 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
   
 ##### not all links work yet!
 
-- [Class 1 - July 6, 2020](class-01.md) 
-- [Class 2 - July 7, 2020](class-02.md)
-- [Class 3 - July 8, 2020](class-03.md) Re-read Chapter UGH!
-- [day 4 - july 9, 2020](9july2020.md)
-- [day 5 - july 10, 2020](10jul2020.md)
-- [day 6 - july 13, 2020](13jul2020.md)
+- [Class 1 - HTML, Structure, and Design = July 6, 2020](class-01.md) 
+- [Class 2 - Intro to CSS and Javascript = July 7, 2020](class-02.md)
+- [Class 3 - HTML Lists, Loops and Decissions -  July 8, 2020](class-03.md) 
+- [Class 4 - HTML Links, Css Layout, JS Function - july 9, 2020](class-04.md)
+- [Class 5 - CSS Images, Text and Color July 10, 2020](class-05.md)
+- [Class 6 - JS Object Literals:The DOM - July 13, 2020](class-06.md) Read before Monday
 - [day 7 - july 14, 2020](14jul2020.md)
 - [day 8 - july 15, 2020](15jul2020.md)
 - [day 9 - july 16, 2020](16jul2020.md)
