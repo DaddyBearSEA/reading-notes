@@ -26,7 +26,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 - [Class 5 - CSS Images, Text and Color July 10, 2020](class-05.md)
 - [Class 6 - JS Object Literals:The DOM - July 13, 2020](class-06.md) 
 - [day 7 - Object-Oriented Programmingjuly 14, 2020](class-07.md)
-- [day 8 - july 15, 2020](15jul2020.md)
+- [day 8 - CSS Layout - july 15, 2020](class-08.md)
 - [day 9 - july 16, 2020](16jul2020.md)
 - [day 10 - july 17, 2020](17jul2020.md)
 - [day 11 - july 18, 2020](28jul2020.md)
