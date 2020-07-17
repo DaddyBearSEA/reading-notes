@@ -28,7 +28,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 - [Class 7 - Object-Oriented Programmingjuly 14, 2020](class-07.md)
 - [Class 8 - CSS Layout - july 15, 2020](class-08.md)
 - [Class 9 - Forms and JS Events - July 16, 2020](class-09.md)
-- [day 10 - july 17, 2020](17jul2020.md)
+- [Class 10 - Debugging - July 17, 2020](class-10.md)
 - [day 11 - july 18, 2020](28jul2020.md)
 - [day 12 - july 19, 2020](19jul2020.md)
 - [day 13 - july 20, 2020](20jul2020.md)
