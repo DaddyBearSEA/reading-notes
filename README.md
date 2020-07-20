@@ -6,8 +6,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 ### Quick Links
 [Slack](https://app.slack.com/client/T039KG69K/D01419MJVAB/thread/C039KG6A1-1591124619.046600) ||  [Canvas](https://canvas.instructure.com/) ||
-[FrontRow](https://frontrowviews.com/Home/Event/ProviderDetails/5a83c3f209310b1d68d45c46) || 
-[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI ) || [Nich's Calendar](https://nicholas-carignan.youcanbook.me/) || [Class Github](https://github.com/codefellows/seattle-201d65)
+[FrontRow](https://frontrowviews.com/Home/) || 
+[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI ) || [Nich's Calendar](https://nicholas-carignan.youcanbook.me/) || [Class Github](https://github.com/codefellows/seattle-201d65)
 
 <img src="images/mainefoliage.jpg"  align="center" height="150px" width="750
 50px">
@@ -29,7 +29,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 - [Class 8 - CSS Layout - july 15, 2020](class-08.md)
 - [Class 9 - Forms and JS Events - July 16, 2020](class-09.md)
 - [Class 10 - Debugging - July 17, 2020](class-10.md)
-- [day 11 - july 18, 2020](28jul2020.md)
+- [Class 11 -Audio, Video, and Images - July, 2020](class-11.md)
 - [day 12 - july 19, 2020](19jul2020.md)
 - [day 13 - july 20, 2020](20jul2020.md)
 - [day 14 - july 21, 2020](21jul2020.md)
