@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
- Github is [Michael Mandell](https://github.com/DaddyBearSEA)  <img src="images/Headshot.jpg" height="100px" width="75px" align="right">
+ Github is [Michael Mandell](https://github.com/DaddyBearSEA)  <img src="images/michael_banff.jpg" height="75px" width="100px" align="right">
 
 This is the reading notes site of Michael Mandell, Student at Code Fellows. This is where I will be putting my notes from the reading assignments.  I have also included some quick links for class and favorite sites for syntax
 
@@ -9,15 +9,45 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 [FrontRow](https://frontrowviews.com/Home/) || 
 [Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI ) || [Nich's Calendar](https://nicholas-carignan.youcanbook.me/) || [Class Github](https://github.com/codefellows/seattle-201d65)
 
-<img src="images/mainefoliage.jpg"  align="center" height="150px" width="750
+<img src="images/montanna.jpg"  align="center" height="150px" width="750
 50px">
 
 
 ###### ** Maine Foliage October 2008 **
+| Work in Progress 	|  Seven Pillars of Career Coaching	| 
+|-	|-	|
+| 201 - [Cookie Stand](https://daddybearsea.github.io/cookie-stand/) | 1. Professional etiquette
+| 201 - [Lab2 About Me](https://daddybearsea.github.io/lab02/)  	| 2. Professional Pitch 	| 
+| 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)  	| 3. Createing a Network	|
+|  	| 4. Job Search Readiness 	|
+|  	| 5. Targeted Job Search	|
+|  	| 6. Professional Materials 	|
+|  	| 7. Beahvioral Interview Questions	|
+
 
 ## Table of Contents  
+[102 Learning Journal](https://daddybearsea.github.io/learning-journal/)
+
+<a href ="#201">201 Reading Notes</a>
+
+## 301 Reading Notes
+
+
   
-##### not all links work yet!
+
+
+
+
+
+
+
+
+
+
+
+###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
+
+#### 201 Reading Notes {:id = "201")
 
 - [Class 1 - HTML, Structure, and Design = July 6, 2020](class-01.md) 
 - [Class 2 - Intro to CSS and Javascript = July 7, 2020](class-02.md)
@@ -31,26 +61,3 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 - [Class 10 - Debugging - July 17, 2020](class-10.md)
 - [Class 11 -Audio, Video, and Images - July, 21 2020](class-11.md)
 - [day 12 - Storage -  july 22, 2020](class-12.md)
-- [day 13 - july 20, 2020](20jul2020.md)
-- [day 14 - july 21, 2020](21jul2020.md)
-- [day 15 - july 22, 2020](22jul2020.md)
-
-
-
-
-
-
-
-| Work in Progress 	|  Seven Pillars of Career Coaching	| 
-|-	|-	|
-| 201 - [Cookie Stand](https://daddybearsea.github.io/cookie-stand/) | 1. Professional etiquette
-| 201 - [Lab2 About Me](https://daddybearsea.github.io/lab02/)  	| 2. Professional Pitch 	| 
-| 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)  	| 3. Createing a Network	|
-|  	| 4. Job Search Readiness 	|
-|  	| 5. Targeted Job Search	|
-|  	| 6. Professional Materials 	|
-|  	| 7. Beahvioral Interview Questions	|
-
-
-
-###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
