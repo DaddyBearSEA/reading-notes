@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 301 Reading Notes
 
  Github is [Michael Mandell](https://github.com/DaddyBearSEA)  <img src="images/michael_banff.jpg" height="75px" width="100px" align="right">
 
@@ -16,13 +16,13 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 ###### ** Maine Foliage October 2008 **
 | Work in Progress 	|  Seven Pillars of Career Coaching	| 
 |-	|-	|
-| 201 - [Cookie Stand](https://daddybearsea.github.io/cookie-stand/) | 1. Professional etiquette
-| 201 - [Lab2 About Me](https://daddybearsea.github.io/lab02/)  	| 2. Professional Pitch 	| 
-| 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)  	| 3. Createing a Network	|
-|  	| 4. Job Search Readiness 	|
-|  	| 5. Targeted Job Search	|
-|  	| 6. Professional Materials 	|
-|  	| 7. Beahvioral Interview Questions	|
+|| 1. Professional etiquette
+|   	| 2. Professional Pitch 	| 
+| 	| 3. Createing a Network	|
+| 201 - [Bus Mall](https://daddybearsea.github.io/busmall/) 	| 4. Job Search Readiness 	|
+|  201 - [Cookie Stand](https://daddybearsea.github.io/cookie-stand/)  	| 5. Targeted Job Search	|
+| 201 - [Lab2 About Me](https://daddybearsea.github.io/lab02/) 	| 6. Professional Materials 	|
+| 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)   	| 7. Beahvioral Interview Questions	|
 
 
 ## Table of Contents  
@@ -31,6 +31,9 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 <a href ="#201">201 Reading Notes</a>
 
 ## 301 Reading Notes
+
+[Responsive Web Design - August 10, 2020](responsive.md)
+
 
 
   
@@ -47,17 +50,17 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 ###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
 
-#### 201 Reading Notes {:id = "201")
+#### 201 Reading Notes
 
 - [Class 1 - HTML, Structure, and Design = July 6, 2020](class-01.md) 
 - [Class 2 - Intro to CSS and Javascript = July 7, 2020](class-02.md)
 - [Class 3 - HTML Lists, Loops and Decissions -  July 8, 2020](class-03.md) 
 - [Class 4 - HTML Links, Css Layout, JS Function - july 9, 2020](class-04.md)
-- [Class 5 - CSS Images, Text and Color July 10, 2020](class-05.md)
+- [Class 5 - CSS Images, Text and Color - July 10, 2020](class-05.md)
 - [Class 6 - JS Object Literals:The DOM - July 13, 2020](class-06.md) 
-- [Class 7 - Object-Oriented Programmingjuly 14, 2020](class-07.md)
+- [Class 7 - Object-Oriented Programming - July 14, 2020](class-07.md)
 - [Class 8 - CSS Layout - july 15, 2020](class-08.md)
 - [Class 9 - Forms and JS Events - July 16, 2020](class-09.md)
 - [Class 10 - Debugging - July 17, 2020](class-10.md)
 - [Class 11 -Audio, Video, and Images - July, 21 2020](class-11.md)
-- [day 12 - Storage -  july 22, 2020](class-12.md)
+- [Class 12 - Storage -  July 22, 2020](class-12.md)
