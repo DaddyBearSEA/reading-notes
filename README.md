@@ -14,15 +14,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 
 ###### ** Maine Foliage October 2008 **
-| Work in Progress 	|  Seven Pillars of Career Coaching	| 
-| -	| -	|
-|  | 1. Professional etiquette |   
-|  | 2. Professional Pitch 	| 
-|  | 3. Createing a Network	|
-| 201 - [Bus Mall](https://daddybearsea.github.io/busmall/) 	| 4. Job Search Readiness 	|
-|  201 - [Cookie Stand](https://daddybearsea.github.io/cookie-stand/)  	| 5. Targeted Job Search	|
-| 201 - [Lab2 About Me](https://daddybearsea.github.io/lab02/) 	| 6. Professional Materials 	|
-| 102- [Class HTML/CSS/JS Project](https://daddybearsea.github.io/class-project/)   	| 7. Beahvioral Interview Questions	|
+
+
 
 
 ## Table of Contents  
