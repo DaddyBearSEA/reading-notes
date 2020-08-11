@@ -25,8 +25,9 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 ## 301 Reading Notes
 
-[Responsive Web Design - August 10, 2020](responsive.md)
-[Paired Programming and JQuery - August 11, 2020](pair-query.md)
+- [Responsive Web Design - August 10, 2020](responsive.md)
+
+- [Paired Programming and JQuery - August 11, 2020](pair-query.md)
 
 
 
