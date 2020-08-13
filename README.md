@@ -29,9 +29,9 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [Paired Programming and JQuery - August 11, 2020](pair-query.md)
 
-- [Mustache and Flexbox = August 12, 2020](must-flex.md)
+- [Mustache and Flexbox - August 12, 2020](must-flex.md)
 
-
+- [CSS Grid - August 13, 2020](css-grid.md)
 
   
 
