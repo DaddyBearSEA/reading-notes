@@ -9,8 +9,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 [FrontRow](https://frontrowviews.com/Home/) || 
 [Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI ) || [Ray's Calendar](https://bit.ly/2FUDF6a) || [Class Github](https://github.com/codefellows/seattle-301n19)
 
-<img src="images/montanna.jpg"  align="center" height="150px" width="750
-50px">
+<img src="images/montanna.jpg"  align="center" height="150px" width="750px">
 
 
 ###### ** spring skiing in Montana 2019 **
@@ -34,6 +33,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [CSS Grid - August 13, 2020](/301/css-grid.md)
 
+<img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
+
 | Work in Progress |  Seven Pillars of Career Coaching |  
 |-|-|
 |  |  1. Professional Etiquette |  
@@ -44,8 +45,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 |  | 6. Professional Materials |
 |  | 7. Beahvioral Interview Questions|
 
-<img src="images/banff.jpg"  align="center" height="150px" width="750
-50px">
+<img src="images/banff.jpg"  align="center" height="150px" width="750px">
 
 ###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
 

@@ -82,5 +82,4 @@ Methods that find elements in the DOM tree are called DOM queries.  When you nee
 
 ### browsers offer tools for viewing the DOM tree
 
-
-
+[go back](../README.md)

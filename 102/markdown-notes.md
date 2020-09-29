@@ -65,4 +65,4 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 Rendered table with varied cell width
 
 
-[go back](README.md)
+[go back](../README.md)

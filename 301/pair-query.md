@@ -1,9 +1,10 @@
 ## Reading
 
-#### JavaScript and jQuery book by Jon Duckett 
+### JavaScript and jQuery book by Jon Duckett 
 pages 293-301, 306-331 and 354-357
 
-#### JQuery Offers
+### JQuery Offers
+
 1. select elements
 1. perform tasks
 1. handle events
@@ -15,16 +16,19 @@ Jquery is a JS file that you include in your webpages. It lets you find elements
 
 **NOTE:** jQurey's motto is "Write less, do more."
 
-##### Why use jQuery?
+### Why use jQuery?
+
 1. simple selectors
 1. common tasks in less code
 1. cross browser compatibility
 
 A matched set / jQuery Selection
+
 1. Single Element pg 306
 1. Multiple elements
 
 jQuery methods that get and set data
+
 1. get infomration pg 307
 1. set information
 
@@ -38,6 +42,7 @@ Caching jQuery selections in variables - a jQuery object stores references to el
 CDN - Content Delivery Network - a series of server spread out around the world.  
  
 Loading jQuery from a CDN -pg 355
+
 `<script src ="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>`
 
 `<script>`
@@ -46,10 +51,7 @@ Loading jQuery from a CDN -pg 355
 
 `</script>`
 
-
 Load jQuery at the bottom of the code before the `</body>`
-
-
 
 #### [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
@@ -78,7 +80,10 @@ Load jQuery at the bottom of the code before the `</body>`
 - using animation
 
 ##### JavaScript and jQuery book by Jon Duckett pages 302-305
+
 - finding elements
 - Doing things with your selection
 
 Lots of .Method here to explore
+
+[go back](../README.md)

@@ -25,4 +25,4 @@ Today is all about setting up the computer. To have everything local on my hard 
 
 
 
-[go back](README.md)
+[go back](../README.md)

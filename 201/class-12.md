@@ -49,3 +49,4 @@
 **The Indexed Database API**
 > another competing vision for advanced, persistent, local storage for web applications
 
+[go back](../README.md)

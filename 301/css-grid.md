@@ -1,17 +1,16 @@
 ## READING
-<img src = "images/grid-garden.JPG" height = "150px" align = "right">
+
+<img src = "../images/grid-garden.JPG" height = "150px" align = "right">
 
 #### [CSS GRID GARDEN](https://cssgridgarden.com/)
 
-now these are games that I can get into - learning as you go!  Kind of like leapfrog.com 
+now these are games that I can get into - learning as you go!  Kind of like leapfrog.com
 
+### RegExr
 
+<img src = "../images/regxcheatsheet.jpg" height = "300" align = "left">
 
-### RegExr 
-
-<img src = "images/regx-cheatsheet.JPG" height = "300" align = "left">
-
-> A regular expression (shortened as regex or regexp;[1] also referred to as rational expression)[2][3] is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory. [reference](https://en.wikipedia.org/wiki/Regular_expression)
+> A regular expression [shortened as regex or regexp;[1] also referred to as rational expression](2)[3] is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory. [reference](https://en.wikipedia.org/wiki/Regular_expression)
 
 ### Regex Tutorial
 > One of the most interesting features is that once you’ve learned the syntax, you can actually use this tool in (almost) all programming languages ​​(JavaScript, Java, VB, C #, C / C++, Python, Perl, Ruby, Delphi, R, Tcl, and many others) with the slightest distinctions about the support of the most advanced features and syntax versions supported by the engines). [reference](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
@@ -38,3 +37,5 @@ I loved playing the GRID GARDEN and wondering the real world application of grid
 
 #### Grid and flexbox
 > The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time. [reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout#:~:text=Grid%20and%20flexbox,columns%20at%20the%20same%20time.)
+
+[go back](../README.md)
