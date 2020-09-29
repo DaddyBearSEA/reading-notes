@@ -19,54 +19,62 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 
 ## Table of Contents  
-[102 Learning Journal](https://daddybearsea.github.io/learning-journal/)
 
-<a href ="#201">201 Reading Notes</a>
+## [102 Learning Journal](#102-reading-notes)
+
+## [201 Reading Notes](#201-reading-notes)
 
 ## 301 Reading Notes
 
-- [Responsive Web Design - August 10, 2020](responsive.md)
+- [Responsive Web Design - August 10, 2020](/301/responsive.md)
 
-- [Paired Programming and JQuery - August 11, 2020](pair-query.md)
+- [Paired Programming and JQuery - August 11, 2020](/301/pair-query.md)
 
-- [Mustache and Flexbox - August 12, 2020](must-flex.md)
+- [Mustache and Flexbox - August 12, 2020](/301/must-flex.md)
 
-- [CSS Grid - August 13, 2020](css-grid.md)
+- [CSS Grid - August 13, 2020](/301/css-grid.md)
 
-  
-
-| Work in Progress 	|  Seven Pillars of Career Coaching	| 
-|-	|-	|
-|  	|  1. Professional Etiquette	|  
-|  	| 2. Professional Pitch 	| 
-|  	| 3. Createing a Network	|
-|  	| 4. Job Search Readiness 	|
-|  	| 5. Targeted Job Search	|
-|  	| 6. Professional Materials 	|
-|  	| 7. Beahvioral Interview Questions	|
-
+| Work in Progress |  Seven Pillars of Career Coaching |  
+|-|-|
+|  |  1. Professional Etiquette |  
+|  | 2. Professional Pitch |  
+|  | 3. Createing a Network |
+|  | 4. Job Search Readiness |
+|  | 5. Targeted Job Search |
+|  | 6. Professional Materials |
+|  | 7. Beahvioral Interview Questions|
 
 <img src="images/banff.jpg"  align="center" height="150px" width="750
 50px">
 
-
-
-
-
-
 ###### ***NOTE: All pictures used are from my own camera. Samsung Galaxy S7J or S9. Berlin, Seattle, and Calgary. I'm a foody! so drinks and food are my jam!***
 
-#### 201 Reading Notes
+## 201 Reading Notes
 
-- [Class 1 - HTML, Structure, and Design = July 6, 2020](class-01.md) 
-- [Class 2 - Intro to CSS and Javascript = July 7, 2020](class-02.md)
-- [Class 3 - HTML Lists, Loops and Decissions -  July 8, 2020](class-03.md) 
-- [Class 4 - HTML Links, Css Layout, JS Function - july 9, 2020](class-04.md)
-- [Class 5 - CSS Images, Text and Color - July 10, 2020](class-05.md)
-- [Class 6 - JS Object Literals:The DOM - July 13, 2020](class-06.md) 
-- [Class 7 - Object-Oriented Programming - July 14, 2020](class-07.md)
-- [Class 8 - CSS Layout - july 15, 2020](class-08.md)
-- [Class 9 - Forms and JS Events - July 16, 2020](class-09.md)
-- [Class 10 - Debugging - July 17, 2020](class-10.md)
-- [Class 11 -Audio, Video, and Images - July, 21 2020](class-11.md)
-- [Class 12 - Storage -  July 22, 2020](class-12.md)
+- [Class 1 - HTML, Structure, and Design = July 6, 2020](/201/class-01.md) 
+- [Class 2 - Intro to CSS and Javascript = July 7, 2020](/201/class-02.md)
+- [Class 3 - HTML Lists, Loops and Decissions -  July 8, 2020](/201/class-03.md) 
+- [Class 4 - HTML Links, Css Layout, JS Function - july 9, 2020](/201/class-04.md)
+- [Class 5 - CSS Images, Text and Color - July 10, 2020](/201/class-05.md)
+- [Class 6 - JS Object Literals:The DOM - July 13, 2020](/201/class-06.md) 
+- [Class 7 - Object-Oriented Programming - July 14, 2020](/201/class-07.md)
+- [Class 8 - CSS Layout - july 15, 2020](/201/class-08.md)
+- [Class 9 - Forms and JS Events - July 16, 2020](/201/class-09.md)
+- [Class 10 - Debugging - July 17, 2020](/201/class-10.md)
+- [Class 11 -Audio, Video, and Images - July, 21 2020](/201/class-11.md)
+- [Class 12 - Storage -  July 22, 2020](/201/class-12.md)
+
+<img src ="images/saki.jpg" align ="center" valign="center" height="300">
+
+## 102 Reading Notes
+
+- [Growth Mindset June 1, 2020](/102/growth-mindset.md)
+- [Markdown Notes June 2, 2020](/102/markdown-notes.md)
+- [Coders Computer June 2, 2020](/102/coders-computer.md)
+- [Git vs. Github June 3, 2020](/102/git-github.md)
+- [Structure Web pages with HTML June 4, 2020](/102/html-notes.md)
+- [CSS Notes June 5 2020 AM Class](/102/css-notes.md)
+- [Computer Architecture June 5, 2020](/102/computer-arch.md)
+- [Java Script Notes June 5 2020 PM Class](/102/js-notes.md)
+- [Java Script Programming June 8, 2020](/102/js-program.md)
+- [Loops and Operators](/102/loops-notes.md)
