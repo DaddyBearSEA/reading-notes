@@ -5,7 +5,7 @@ pages 293-301, 306-331 and 354-357
 
 #### JQuery Offers
 1. select elements
-1. perfomr tasks
+1. perform tasks
 1. handle events
 
 Jquery is a JS file that you include in your webpages. It lets you find elements using CSS-style selectors and then do something with the elements using jQuery methods.
@@ -29,11 +29,11 @@ jQuery methods that get and set data
 1. set information
 
 
-jQuery objects store references to elements - when you create a selection with jQuery, it stores a reference to the corresponding nodes in teh DOM tree. It does not create copies of them.
+jQuery objects store references to elements - when you create a selection with jQuery, it stores a reference to the corresponding nodes in the DOM tree. It does not create copies of them.
 
 Caching jQuery selections in variables - a jQuery object stores references to eleements. Caching a jQuery object stores a reference to it in a variable.
 
-#### Ways to include jQuery in your page.
+## Ways to include jQuery in your page
 
 CDN - Content Delivery Network - a series of server spread out around the world.  
  

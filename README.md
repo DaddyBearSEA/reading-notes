@@ -5,9 +5,9 @@
 This is the reading notes site of Michael Mandell, Student at Code Fellows. This is where I will be putting my notes from the reading assignments.  I have also included some quick links for class and favorite sites for syntax
 
 ### Quick Links
-[Slack](https://app.slack.com/client/T039KG69K/D01419MJVAB/thread/C039KG6A1-1591124619.046600) ||  [Canvas](https://canvas.instructure.com/) || [301 Zoom](https://zoom.us/j/98798531604) ||
+[Slack](https://app.slack.com/client/T039KG69K/D01419MJVAB/thread/C039KG6A1-1591124619.046600) ||  [Canvas](https://canvas.instructure.com/) || [301 Zoom](https://bit.ly/3cE74gH) ||
 [FrontRow](https://frontrowviews.com/Home/) || 
-[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI ) || [Nich's Calendar](https://nicholas-carignan.youcanbook.me/) || [Class Github](https://github.com/codefellows/seattle-301d65)
+[Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) || [Lab Room](https://codefellows-lab.herokuapp.com/) || [Repl.it](https://repl.it/login) || [JS in Nutshell](https://read.amazon.com/?asin=B088P9Q6BBI ) || [Ray's Calendar](https://bit.ly/2FUDF6a) || [Class Github](https://github.com/codefellows/seattle-301n19)
 
 <img src="images/montanna.jpg"  align="center" height="150px" width="750
 50px">
@@ -35,10 +35,19 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
   
 
+| Work in Progress 	|  Seven Pillars of Career Coaching	| 
+|-	|-	|
+|  	|  1. Professional Etiquette	|  
+|  	| 2. Professional Pitch 	| 
+|  	| 3. Createing a Network	|
+|  	| 4. Job Search Readiness 	|
+|  	| 5. Targeted Job Search	|
+|  	| 6. Professional Materials 	|
+|  	| 7. Beahvioral Interview Questions	|
 
 
-
-
+<img src="images/banff.jpg"  align="center" height="150px" width="750
+50px">
 
 
 
