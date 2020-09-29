@@ -24,12 +24,11 @@ Just like word processors.
 
 these elements emphasize the text but not structure of the webpage `(page 50 - 56)`
 
-
-
 ## Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+
 CSS treats each HTML element as it appears inside it's own box and uses rules to indicate how that element should look
 
-<img src="images/szechuanporkbowl.jpg" height ="150px"  align="right">
+<img src="../images/szechuanporkbowl.jpg" height ="150px"  align="right">
 
 Rules are made of of selectsrs - that specify the elements the rule applies to
 
@@ -38,14 +37,15 @@ Declarations is what indicates what these elements should look like
 Differrent types of selectors allow you to targe your rules at different elements
 
 declarations are made up of two parts
+
   1. the properties of the elements
   1. the Values of those properties
-
 
 CSS rules usually appear in a separate document but you may do them inline within the HTML page.
 
 **Thenk of CSS as putting all elements into a box**
-  - Css allows you to create rules that aonctorl the way each individual box and the contents of that bos are presented.
+
+- Css allows you to create rules that aonctorl the way each individual box and the contents of that bos are presented.
   - Internal style `<style>` within HTML
   - external style - `<link href=css/styles.css tyep="text/css" rel="stylesheet"/>`
 
@@ -58,8 +58,6 @@ CSS rules usually appear in a separate document but you may do them inline withi
   [Cross Browsing Testing](https://crossbrowsertesting.com/)
  which is a paid service
 
-
-
 ### From the Duckett JS book:
 
 ## Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
@@ -68,11 +66,13 @@ CSS rules usually appear in a separate document but you may do them inline withi
 - Precise Instructions
 - Variables can be used to store pieces of information
   - `var firstname;` declaring a variable.
-   - `firstname = 'Michael' setting the variables value 
-      - String
-      - Numeric
-      - Boolean
+  `firstname = 'Michael' setting the variables value 
+    - String
+    - Numeric
+    - Boolean
+
 - Arrays `(hate them)` are special types of variables that store more than one piece of related informaiont
+
 - JS distinguishes between `0 - 9`, strings, and boolean values
   - Numeric and string can be compared in some instances
   - Boolean is either 1 or 0 - True or False
@@ -88,7 +88,5 @@ CSS rules usually appear in a separate document but you may do them inline withi
 
 #### Additional Resources
 [Chris Beams Git Journal](https://chris.beams.io/posts/git-commit/)
-
-
 
 [go back](../README.md)

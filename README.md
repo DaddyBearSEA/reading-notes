@@ -55,13 +55,13 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 - [Class 2 - Intro to CSS and Javascript = July 7, 2020](/201/class-02.md)
 - [Class 3 - HTML Lists, Loops and Decissions -  July 8, 2020](/201/class-03.md) 
 - [Class 4 - HTML Links, Css Layout, JS Function - july 9, 2020](/201/class-04.md)
-- [Class 5 - CSS Images, Text and Color - July 10, 2020](/201/class-05.md)
+- [Class 5 - CSS ../images, Text and Color - July 10, 2020](/201/class-05.md)
 - [Class 6 - JS Object Literals:The DOM - July 13, 2020](/201/class-06.md) 
 - [Class 7 - Object-Oriented Programming - July 14, 2020](/201/class-07.md)
 - [Class 8 - CSS Layout - july 15, 2020](/201/class-08.md)
 - [Class 9 - Forms and JS Events - July 16, 2020](/201/class-09.md)
 - [Class 10 - Debugging - July 17, 2020](/201/class-10.md)
-- [Class 11 -Audio, Video, and Images - July, 21 2020](/201/class-11.md)
+- [Class 11 -Audio, Video, and ../images - July, 21 2020](/201/class-11.md)
 - [Class 12 - Storage -  July 22, 2020](/201/class-12.md)
 
 <img src ="images/saki.jpg" align ="center" valign="center" height="300">

@@ -4,7 +4,7 @@
 
 #### [Syntax Blog for GIT](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_3)
 
-<img src ="images/lillies.jpg" height="300px" align = "right">
+<img src ="../images/lillies.jpg" height="300px" align = "right">
 
 ACP - Add / Commit / Push
 

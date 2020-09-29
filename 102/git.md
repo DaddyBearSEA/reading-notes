@@ -4,7 +4,7 @@
 
 #### [Syntax Blog for GIT](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_3)
 
-<img src ="images/lillies.jpg" height="300px" align = "right">
+<img src ="../images/lillies.jpg" height="300px" align = "right">
 
 ### Getting Help with in Ubuntu
 When using any commmand in Ubuntu - you can type the command `cmd --help` works and gives you a copy of the syntax for the command

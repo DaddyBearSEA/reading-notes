@@ -2,11 +2,11 @@
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-
 > hyperlink is a Square Bracket followed w/o spaces in a normal bracket
 `[` hyperlink text `]``(`webaddress`)`
 
 ### Lists numbered and bulleted
+
 Numbered lists are `1.` `2.` `3.`
 1. Item 1
 2. Item 2
@@ -42,11 +42,11 @@ Here is a bullet list done with `-`
   - first indent item two
   - first indent item three
 
-Advance Formatting
+## Advance Formatting
 
-Creating a table
+### Creating a table
+
 You can create tables with pipes | and hyphens -. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
-
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -63,6 +63,5 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 Rendered table with varied cell width
-
 
 [go back](../README.md)

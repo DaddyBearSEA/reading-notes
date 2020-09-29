@@ -57,12 +57,12 @@ Head of an HTML page contains meta data and the Title most commonly
 - Symbols like Copywrite, trademark Yen or Pound signs, and Exclamation point
 - see page 194
 
-
-
 ## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-<img src="images/chickendinner.jpg" align="right" height="300px">
+
+<img src="../images/chickendinner.jpg" align="right" height="300px">
 
 **HTML5 elements** in the past div was used often to define parts of the page. HTML5 gives you new elements
+
 - header
 - footer
 - nav
@@ -75,10 +75,9 @@ Head of an HTML page contains meta data and the Title most commonly
 
 **new elements provide clearer code**
 
-
 **older browsers**
 
-> Useing Google Javascrip HTML5 shiv or shim.  Less thatn IE9 browsers.
+> Using Google Javascrip HTML5 shiv or shim.  Less thatn IE9 browsers.
 
 **NOTE:** *anyone using IE* or lower must have JavaScript enabled in their borwser*
 
@@ -86,34 +85,39 @@ Head of an HTML page contains meta data and the Title most commonly
 
 > See Above under Older Browser
 
-
 ## HTML Chapter 18: “Process & Design” (pp.452-475)
 
 Some basics broken into 4 thoughts
+
 1. Audience - who is your demograhic for your website
 1. Organization of your content
 1. Presentation of the content
 1. Attractive and Professional design to meet the target audience
 
 ### Demographic of Audience
+
 > Know your target clientele and why they want to come to your website. Give them the informaton that they seek on your site.
 
 ### Motivational Goals
+
 > Why are they visiting your web site and what information are they expecting to find.
 
 **NOTE:** *when taking over an existing website, look for analysis of the current traffic and what demographic is already present.*
 
 ### Site Maps
+
 > How will you organize your content for the website. Use a tool called Card Sorting and lay out the information. Index Card or and Excel Spreadsheet is nice to lay things out.
 
 ### Wireframes
+
 > Then off to WIREFRAMES - Photoshop has templates for this.
 
 ### Visual Hierarchy
+
 > There is a lot of Psychology around design of web sites and what works and doesn’t work. Here is a taste of some psychology
 
-
 #### Designing Navigation
+
  - Concise
  - Clear
  - Selective
@@ -123,22 +127,21 @@ Some basics broken into 4 thoughts
 
 ### From the Duckett JS book:
 
-
 ## Introduction
 
 Javascrip makes static webpages more dynamic
 
 **Examples of useing Javascript**
+
 - Slideshows
 - forms
 - reload part of a page
 - filtering data
 
-
-
 ## JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
 #### A What is a script and how do I create one
+
 - searies of instructions
 
 - might only use a subset of the instructions
@@ -148,6 +151,7 @@ Javascrip makes static webpages more dynamic
 - break down your goals, create series of tasks and then work out each step needed `(flowchart)`
 
 #### Writing a script
+
 1. Define the Goal
 1. Design the script
 1. code each step
@@ -157,10 +161,12 @@ Javascrip makes static webpages more dynamic
 What is the big picture and what is the task at hand you need to achive.
 
 ##### Design the Script
+
 deisgn the script by spliting the goal out into a series of tasks that the computer will need to do - PUZZLE!  Using a flowchart is best practice
-write down the individual steps that the computer neeeds to perform. Like a "Recipe" 
+write down the individual steps that the computer neeeds to perform. Like a "Recipe"
 
 ##### Code Each Step
+
 each of the steps needs to be written in a programming language tha the computer understnads. **NOTE** *spend time designing / planning before writing*
 
 #### B How do computer fit in with the world around them?
@@ -169,6 +175,7 @@ each of the steps needs to be written in a programming language tha the computer
 
 - Models use objects to represent physical things
     - Objects have 
+
         1. property
         1. Methods
         1. events
@@ -176,16 +183,14 @@ each of the steps needs to be written in a programming language tha the computer
     together they make up a model
 
 Properties (characteristics)
-> Properties are things like color, type, size, 
+> Properties are things like color, type, size,
 
-Events 
+Events
 
 > the interaction with objects. An event will trigger code to run
 
-Methods 
+Methods
 > represent thing speople need to do with the objects.  Theey can retrieve or update the values o fthe object's properties.
-
-
 
 - Programmers write code when this event occurs = run this code
 
@@ -201,7 +206,6 @@ Methods
 - Keep JS code in it's onw JS files. HTML its own files and CCS in it's own file.
 - HTML `<script>` element is added to HTML to be exucuted within the HTML code
 - when looking at the source code the JS will not change the HTML.  The JS works with the MODEL of the Web Page the Browser created
-
 
 [go back](../README.md)
 

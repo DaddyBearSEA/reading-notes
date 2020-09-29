@@ -42,24 +42,22 @@
 
 Gradiesnts as well!
 
-
-
-
 ### to reduce the number of images your browser has to load, you can create image sprites.
 
 **See pg 417**
-*the advantage of using spries is theat the web browser only needs to request one image rather than many images, which can make the web page load faster.*
 
-
+the advantage of using spries is theat the web browser only needs to request one image rather than many images, which can make the web page load faster.*
 
 ## Chapter 19: “Practical Information” (476-492)
 
 ### Search Engine optimization helps visitors find your sites wehn using search engines.
+
 SEO changes almost **Daily**
 I like to follow [Rebecca Gill](https://twitter.com/rebeccagill) she gives free seminars through iThemes.
 I also you [Yoast](https://yoast.com/) for my SEO in WordPress.
 
 ### analytics tools such as Google Analytics allow you to see how many people visit your site, how theyfind it and what they do when they get there
+
 1. brainstorm
 1. organize
 1. research
@@ -69,29 +67,22 @@ I also you [Yoast](https://yoast.com/) for my SEO in WordPress.
 
 Here is my Massage sites SEO Aquisitoin Overview [westseattlemassage.net](westseattlemassage.net)
 
-<img src='images/ga-sea.png'>
-
+<img src='../images/ga-sea.png'>
 
 Google Analytics is probably the best tool.
 
-
-
 ### To put your site on the web, you will need to obtain a domain name and webhosting.
-I love to use [SITEGROUND](https://www.siteground.com/).
-[wordpress.com](https://www.wordpress.com) - Great place to practice 
-I use to use NETWORK solutions but then they got purchased and service went downhill.
 
+I love to use [SITEGROUND](https://www.siteground.com/).
+[wordpress.com](https://www.wordpress.com) - Great place to practice
+I use to use NETWORK solutions but then they got purchased and service went downhill.
 
 ### FTP programs allow you to transfer files from your local computer to your web server
 
 Most hosting sites will give you FTP or have a Browser FTP system to use.
 
-
 ### many companies provide platforms for bloggine, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
 I used to use Constant Contact. Went through their 1 day bootcamp on best practices and analytics of reports.
-
-
-
 
 [This MDN article on audio and video elements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
@@ -104,6 +95,7 @@ I used to use Constant Contact. Went through their 1 day bootcamp on best practi
 
 
 #### CSS
+
 `.controls`
 
 `.player:hover {}`
@@ -120,17 +112,10 @@ use the `opacity: 0.5;`  then `opacity: 1;`
 
 create a `function playPauseMedia();`
 
-
-
-
-
-
-
-
-
 ## Chapter 9: pages 201-206
 ### Bookmark/Skim
-*Flash is no longer supported by many browsers but is an important part of history.*
+
+**Flash is no longer supported by many browsers but is an important part of history.**
 
 pg 205 - 206 - OMG I feel OLD, like Really OLD.  20 year olds never knew what it was like on the Internet before Vidoe or Audio!'
 

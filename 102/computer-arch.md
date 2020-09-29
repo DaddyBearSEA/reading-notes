@@ -15,7 +15,7 @@ We've always made machines to help us for manual labor. Thinking machines
 3. Process information
 4. Out put information
 
-<img src="images/floppydisk.jpg" height="250px">
+<img src="../images/floppydisk.jpg" height="250px">
 
 I use to work on RPG with CARDS!  UGH!  I also use to work with the Magnetic Tapes.  My first floppy was a 8" floppy.
 

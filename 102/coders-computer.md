@@ -2,7 +2,7 @@
 #### Day 2 of 102 
 Today is all about setting up the computer. To have everything local on my hard drive. It's been awhile since I had to do command prompts from the OLD DOS days, but doesn't look like it's changed that much. 
 
- <img src="images/porkchop.jpg" height="200px" width="150px" align="right" > 
+ <img src="../images/porkchop.jpg" height="200px" width="150px" align="right" > 
 
 - Print working directory **'pwd'**
 - list the documents, file folders and misc in the directory **'ls'**

@@ -9,7 +9,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 [FrontRow](https://frontrowviews.com/Home/Event/ProviderDetails/5a83c3f209310b1d68d45c46) || 
 [Git Syntax](git.md) || [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/) || [Ubuntu Cmds](https://medium.com/@vanshvarshney_/20-basic-ubuntu-commands-and-terminal-shortcuts-every-beginner-must-know-92c131fb4c2c)
 
-<img src="images/mainefoliage.jpg"  align="center" height="150px" width="750
+<img src="../images/mainefoliage.jpg"  align="center" height="150px" width="750
 50px">
 
 

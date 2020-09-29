@@ -6,11 +6,11 @@
 
 **Object Oriented Model** is where an entity stores data in properties and encapulates behaviors in method.
 
-<img src = 'images/replitcode.PNG'>
+<img src = '../images/replitcode.PNG'>
 
 ### Console.log
 
-<img src ='images/repllconsole1.PNG'>
+<img src ='../images/repllconsole1.PNG'>
 
 ## Why didn't we have this chapter to read for Monday AM??? 
 Ok - randomNumbers
