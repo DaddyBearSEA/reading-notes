@@ -11,19 +11,15 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 <img src="images/montanna.jpg"  align="center" height="150px" width="750px">
 
-
 ###### ** spring skiing in Montana 2019 **
-
-
-
 
 ## Table of Contents  
 
-## [102 Learning Journal](#102-reading-notes)
+## [102 - Intro to Software Development](#102-reading-notes)
 
-## [201 Reading Notes](#201-reading-notes)
+## [201 - Foundations of Software Development](#201-reading-notes)
 
-## 301 Reading Notes
+## 301 - Intermediate Software Development
 
 - [Responsive Web Design - August 10, 2020](/301/responsive.md)
 
@@ -32,6 +28,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 - [Mustache and Flexbox - August 12, 2020](/301/must-flex.md)
 
 - [CSS Grid - August 13, 2020](/301/css-grid.md)
+
+## 401 - Advanced Software Development - TBD
 
 <img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
 
