@@ -34,6 +34,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [CSS Grid - August 13, 2020](/301/css-grid.md)
 
+- [Heroku - October 10, 2020](/301/heroku.md)
+
 ## 401 - Advanced Software Development - TBD
 
 <img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
