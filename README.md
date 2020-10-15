@@ -36,6 +36,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [Heroku - October 10, 2020](/301/heroku.md)
 
+- [NODE.JS - October 14, 2020](/301/node-js.md)
+
 ## 401 - Advanced Software Development - TBD
 
 <img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
@@ -48,7 +50,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 |  | 4. Job Search Readiness |
 |  | 5. Targeted Job Search |
 |  | 6. Professional Materials |
-|  | 7. Beahvioral Interview Questions|
+| [Porfolio](htt) | 7. Beahvioral Interview Questions|
 
 <img src="images/banff.jpg"  align="center" height="150px" width="750px">
 
