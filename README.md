@@ -38,6 +38,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [NODE.JS - October 14, 2020](/301/node-js.md)
 
+- [REST - October 17, 2020](/301/REST.md)
+
 ## 401 - Advanced Software Development - TBD
 
 <img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
