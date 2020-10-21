@@ -40,6 +40,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [REST - October 17, 2020](/301/REST.md)
 
+- [SQL - October 21, 2020](/301/SQL.md)
+
 ## 401 - Advanced Software Development - TBD
 
 <img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
