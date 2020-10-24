@@ -42,6 +42,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [SQL - October 21, 2020](/301/SQL.md)
 
+- [Functional Programming - October 24, 2020](/301/funprog.md)
+
 ## 401 - Advanced Software Development - TBD
 
 <img src = "images/nightimefountains.jpg" align="center" height="150px" width="750px">
