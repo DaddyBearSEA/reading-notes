@@ -46,6 +46,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [The Call Stack - October 28, 2020](/301/thecallstack.md)
 
+- [EJS - October 31, 2020](/301/ejs.md)
+
 ==================================
 
 ## 401 - Advanced Software Development - TBD
