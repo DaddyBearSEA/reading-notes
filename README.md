@@ -48,6 +48,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [EJS - October 31, 2020](/301/ejs.md)
 
+- [EJS Parials](/301/ejspartials.md)
+
 ==================================
 
 ## 401 - Advanced Software Development - TBD
