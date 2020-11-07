@@ -50,6 +50,8 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [EJS Parials](/301/ejspartials.md)
 
+- [Sending Form Data](/301/formdata.md)
+
 ==================================
 
 ## 401 - Advanced Software Development - TBD
