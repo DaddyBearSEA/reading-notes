@@ -52,7 +52,7 @@ This is the reading notes site of Michael Mandell, Student at Code Fellows. This
 
 - [Sending Form Data](/301/formdata.md)
 
-- [Database Normalization](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+- [Database Normalization](/301/dbnorm.md)
 
 ==================================
 
